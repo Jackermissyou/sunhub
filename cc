@@ -1,7 +1,4 @@
-notis = require(game.ReplicatedStorage:WaitForChild("Notification"))
-notis.new("<Color=Red>Dau mullet Hub<Color=/>"):Display()
-wait()
-notis.new("<Color=Blue>Welcome To Dau Mullet  Hub<Color=/>"):Display()
+---[Notify Má»›i LÃ m:))]
 local Notif = {}
 
 local CoreGUI = game:GetService("CoreGui")
